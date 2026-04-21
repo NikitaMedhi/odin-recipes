@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aliceblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 40px;
+    margin: 20px auto;
+    color: darkcyan
+}
+
+.recipe-list {
+    background-color: palegreen;
+    margin: 20px auto;
+    padding: 20px;
+    list-style: none;
+}
+
+.recipe {
+    text-align: center;
+    margin: 10px 0;
+}
+
+.recipe-link {
+    color: darkgreen;
+}
